@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Social Tables Engineering Code of Conduct",
   "main": "bin/render",
+  "alex": {
+    "allow": ["sick"]
+  },
   "scripts": {
     "build": "bin/render",
     "view": "bin/render && open index.html",
-    "test": "./node_modules/.bin/alex README.md"
+    "test": "./node_modules/.bin/alex README.md -w"
   },
   "repository": {
     "type": "git",
