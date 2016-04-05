@@ -22,11 +22,11 @@ We want our team to be fun, productive, and safe for all members. In addition to
 
 ## Expected behaviors
 
-Every member of the Engineering team is expected to work hard, be considerate of their colleagues across the company, and contribute to a collaborative, positive, and healthy environment in which we can all succeed.
+We're creating a lasting team built on teamwork and collaboration. [It takes a village](https://). Every member of the Engineering team is expected to work hard, be considerate of their colleagues across the company, and contribute to a collaborative, positive, and healthy environment in which we can all succeed.
 
 **Be supportive of your colleagues**, both proactively and responsively. Offer to help if you see someone struggling or otherwise in need of assistance (taking care not to be patronizing or disrespectful). If someone approaches you looking for help, be generous with your time; if you’re under a deadline, direct them to someone else who may be of assistance. Go out of your way to include people in team jokes or memes, recognizing that we want to build an environment free of cliques.
 
-**Be collaborative.** Involve your colleagues -- senior and junior -- in brainstorms, sketching sessions, code reviews, planning documents, and the like. It’s not only okay to ask for help or feedback often, it’s unacceptable not to do so. Don’t succumb to either impostor syndrome (believing that you don’t deserve to be here) or [blowhard syndrome](http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome) (believing you can do no wrong). Recognize that in addition to asking for feedback, you are similarly obligated to give it.
+**Be collaborative.** Involve your colleagues -- senior and junior -- in brainstorms, sketching sessions, code reviews, planning documents, and the like. It’s not only okay to ask for help or feedback often, it’s unacceptable not to do so. We deliberately never stop growing and improving. [Every day is a school day]((https://). Don’t succumb to either impostor syndrome (believing that you don’t deserve to be here) or [blowhard syndrome](http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome) (believing you can do no wrong). Recognize that in addition to asking for feedback, you are similarly obligated to give it.
 
 **Be generous and kind in both giving and accepting critique.** Critique is a natural and important part of our culture. Good critiques are kind, respectful, clear, and constructive, and focused on goals and requirements rather than personal preferences. You are expected to give and receive criticism with grace. If a discussion becomes emotionally charged, try [using these techniques](https://hbr.org/2016/01/defusing-an-emotionally-charged-conversation-with-a-colleague) to defuse the situation and get the conversation back on track.
 
@@ -38,14 +38,14 @@ Every member of the Engineering team is expected to work hard, be considerate of
 
 The Engineering team is committed to providing a welcoming and safe environment for all people -- people of all races, gender identities, gender expressions, sexual orientations, physical abilities, physical appearances, socioeconomic backgrounds, nationalities, ages, religions, and beliefs.
 
-Any behavior or language that is unwelcoming is strongly discouraged. Such exclusionary behavior can take many forms, including [microaggressions](http://www.vox.com/2015/2/16/8031073/what-are-microaggressions)—subtle put-downs, whether deliberate or unconscious. Regardless of intent, microaggressions can have a significant negative impact on victims and have no place on our team.
+We have two-way, transparent, and ethical conversations. [Always honest](https://). Any behavior or language that is unwelcoming is strongly discouraged. Such exclusionary behavior can take many forms, including [microaggressions](http://www.vox.com/2015/2/16/8031073/what-are-microaggressions)—subtle put-downs, whether deliberate or unconscious. Regardless of intent, microaggressions can have a significant negative impact on victims and have no place on our team.
 
 There are a host of behaviors and language common on tech teams which are worth noting as specifically unwelcome:
 
 - avoid “_well, actuallys_”—pedantic corrections that are often insulting and unproductive;
 - make an effort not to interrupt your colleagues while they are speaking;
 - never respond with surprise when someone asks for help;
-- and take care neither to patronize your colleagues nor assume complete knowledge of a topic;
+- take care neither to patronize your colleagues nor assume complete knowledge of a topic;
 - don't presume to explain a topic without knowing whether someone wants or needs an explanation;
 - strive to be inclusive in learning opportunities and technical conversations;
 - listen more than you speak.
