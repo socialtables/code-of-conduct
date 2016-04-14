@@ -20,7 +20,7 @@ We want our team to be fun, productive, and safe for all members. We've adopted 
 
 **"Data is our Diplomat"**  We defer to data-driven design and decision making. We don't always have the luxury of definitive data and often need to make tough decisions in its absence, but where appropriate data exists we let it drive.
 
-**"Always Honest"**  We crave a work environment conducive to open and honest feedback. We strive for [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) and recognize that both Obnoxious Aggression and Ruinous Empathy are to be avoided.
+**"Always Honest"**  We crave a work environment conducive to open and honest feedback. We strive for [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) in our communications, where the intersection of caring personally and challenging directly allows us to foster a culture of productive guidance.
 
 **"Committed To Quality"**  Engineering bears ultimate responsibilty for the quality of our products. For the ultimate success of our group and the entire Social Tables team, we must consistently strive to deliver reliable solutions that delight our customers.
 
