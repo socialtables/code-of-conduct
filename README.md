@@ -2,9 +2,11 @@
 
 The complete code of conduct can be read at [code-of-conduct.socialtables.com](http://code-of-conduct.socialtables.com)
 
-## Introduction
+## Introduction -- Hospitality Matters
 
-The Social Tables Engineering team is committed to fostering a welcoming and supportive environment for all engineers and our colleagues, and we created this code of conduct to hold ourselves to this ideal. We do not anticipate bad behavior, but it is important to articulate our values and obligations to one another to reinforce our culture of collaboration and respect among the team. Having a code provides us with clear avenues to correct our culture should it ever stray from that course. We make this code public in the hopes of contributing to the ongoing conversation about inclusion in the tech community and encourage other teams to fork it and make it their own. For our team, this code is a living document and we commit to uphold and improve it as our team grows.
+Social Tables is a hospitality company, from the platform we provide for our event industry customers, to the way teammates interact with each other and the world around us. Hospitality means extending a warm welcome and sharing our best behavior and resources with every individual we encounter. The Social Tables Engineering team is committed to fostering a hospitable environment for a diverse team of engineers and our colleagues, and we created this code of conduct to hold ourselves to this ideal.
+
+It is important to articulate our values and obligations to one another to reinforce our culture of collaboration and respect among the team. We do not anticipate bad behavior, but having a code provides us with clear avenues to correct our culture should it ever stray from that course. We make this code public in the hopes of contributing to the ongoing conversation about inclusion in the tech community and encourage other teams to fork it and make it their own. For the Social Tables Engineering team, this code is a living document and we commit to uphold and improve it as our team grows.
 
 ## Scope
 
@@ -14,7 +16,7 @@ The contents of this code of conduct apply to our interactions in various areas 
 
 We want our team to be fun, productive, and safe for all members. We've adopted the Social Tables [core values](https://www.socialtables.com/company/about/#values), in ways that specifically apply to the craft of Software Engineering at Social Tables:
 
-**We recognize that "It Takes a Village" as we work alongside other teams.** Customer Success, Sales, Marketing, and Operations team members and others across the company are our peers and collaborators, not our clients. We maintain open lines of communication and foster good working relationships—indeed, friendships—with our colleagues. That collaboration is core to our success.
+**We recognize that "It Takes a Village" as we work alongside other teams.** Customer Success, Sales, Marketing, and Operations team members and others across the company are our peers and collaborators, not our clients. We maintain open lines of communication and foster good working relationships--indeed, friendships--with our colleagues. That collaboration is core to our success.
 
 **"Hospitality Matters"**  We value “soft” skills as much as “hard” and while we love code, we recognize that writing code is not the only or most important way to contribute to great products. “Non-technical” is not synonymous with “inferior.”
 
@@ -46,12 +48,12 @@ We're creating a lasting team built on teamwork and collaboration. [It takes a v
 
 The Engineering team is committed to providing a welcoming and safe environment for all people -- people of all races, gender identities, gender expressions, sexual orientations, physical abilities, physical appearances, socioeconomic backgrounds, nationalities, ages, religions, and beliefs.
 
-We have two-way, transparent, and ethical conversations. [Always honest](https://). Any behavior or language that is unwelcoming is strongly discouraged. Such exclusionary behavior can take many forms, including [microaggressions](http://www.vox.com/2015/2/16/8031073/what-are-microaggressions)—subtle put-downs, whether deliberate or unconscious. Regardless of intent, microaggressions can have a significant negative impact on victims and have no place on our team.
+We have two-way, transparent, and ethical conversations. [Always honest](https://). Any behavior or language that is unwelcoming is strongly discouraged. Such exclusionary behavior can take many forms, including [microaggressions](http://www.vox.com/2015/2/16/8031073/what-are-microaggressions)--subtle put-downs, whether deliberate or unconscious. Regardless of intent, microaggressions can have a significant negative impact on colleagues and have no place on our team.
 
-There are a host of behaviors and language common on tech teams which are worth noting as specifically unwelcome:
+Here are suggestions for how to avoid certain behaviors and language which are specifically unwelcome:
 
-- avoid “_well, actuallys_”—pedantic corrections that are often insulting and unproductive;
 - make an effort not to interrupt your colleagues while they are speaking;
+- avoid “_well, actuallys_”--pedantic corrections that are often insulting and unproductive;
 - never respond with surprise when someone asks for help;
 - take care neither to patronize your colleagues nor assume complete knowledge of a topic;
 - don't presume to explain a topic without knowing whether someone wants or needs an explanation;
@@ -60,29 +62,29 @@ There are a host of behaviors and language common on tech teams which are worth 
 
 ## Reporting a problem
 
-These guidelines are ambitious, and we’re not always going to succeed in meeting them. When something goes wrong, there are a number of things you can do to address the situation with your fellow Engineering team members or with Sam. We know that you’ll do your best work if you’re happy and comfortable in your surroundings, so we take concerns about this stuff seriously.
+These guidelines are ambitious, and we’re not always going to succeed in meeting them. When something goes wrong, there are a number of things you can do to address the situation with your fellow Engineering team members or with the People team. We know that you’ll do your best work if you’re happy and comfortable in your surroundings, so we take concerns about this stuff seriously.
 
-Sometimes, you’ll be a witness to something that seems like it isn’t aligned with our values. Err on the side of caring for your colleagues in situations like these. Even if an incident seems minor, reach out to the person impacted by it to check in. In certain situations, it may even be helpful to speak directly to the person who has violated the code of conduct, a manager, or Sam directly to voice your concerns.
+Sometimes, you’ll be a witness to something that seems like it isn’t aligned with our values. Err on the side of caring for your colleagues in situations like these. Even if an incident seems minor, reach out to the person impacted by it to check in. In certain situations, it may even be helpful to speak directly to the person who has violated the code of conduct, a manager, or People directly to voice your concerns.
 
-If you want to speak to a person impacted by an incident or to the person who has violated the code of conduct, but you’re not sure how to approach these interactions, try reaching out to Sam—these conversations are tricky, and Sam can help you figure out how best to approach them.
+If you want to speak to a person impacted by an incident or to the person who has violated the code of conduct, but you’re not sure how to approach these interactions, try reaching out to the People team--these conversations are tricky, and they can help you figure out how best to approach them.
 
 Depending on your comfort level and the severity of the situation, here are some things you can do to address it:
 
-1. **Address it directly.** If you’re comfortable bringing up the incident with the person who instigated it, pull them aside to discuss how it affected you. Be sure to approach these conversations in a forgiving spirit: an angry or tense conversation will not do either of you any good. If you’re unsure how to go about that, try discussing with your manager or with Sam first—they might have some advice about how to make this conversation happen. <br/><br/>If you’re too frustrated to have a direct conversation, there are a number of alternate routes you can take.
+1. **Address it directly.** If you’re comfortable bringing up the incident with the person who instigated it, pull them aside to discuss how it affected you. Be sure to approach these conversations in a forgiving spirit: an angry or tense conversation will not do either of you any good. If you’re unsure how to go about that, try discussing with your manager or with People first--they might have some advice about how to make this conversation happen. <br/><br/>If you’re too frustrated to have a direct conversation, there are a number of alternate routes you can take.
 
 2. **Talk to a peer or mentor.** Your colleagues are likely to have personal and professional experience on which to draw that could be of use to you. If you have someone you’re comfortable approaching, reach out and discuss the situation with them. They may be able to advise on how they would handle it, or direct you to someone who can. The flip side of this, of course, is that you should also be available when your colleagues reach out to you.
 
 3. **Talk to your manager.** Your manager probably knows quite a lot about the dynamics of your team, which makes them a good person to look to for advice. They may also be able to talk directly to the colleague in question if you feel uncomfortable or unsafe doing so yourself. Finally, your manager will be able to help you figure out how to ensure that any conflict with a colleague doesn’t interfere with your work.
 
-4. **Talk to Sam.** Sam is happy to talk to you about the problem and help figure out what steps to take. Sam is good at listening to concerns about small violations, but she’ll also be able to help out in situations where more drastic action needs to be taken.
+4. **Talk to People.** The People team is happy to talk to you about the problem and help figure out what steps to take. They are good at listening to concerns about small violations, but will also be able to help out in situations where more drastic action needs to be taken.
 
-## Committing to improvement
+## Committed to Quality
 
 We understand that none of us are perfect: It’s expected that all of us, regardless of our backgrounds, will from time to time fail to live up to our very high standards. What matters isn’t having a perfect track record, but owning up to your mistakes and making a clear and persistent effort to improve.
 
-If you are approached as having (consciously or otherwise) acted in a way that might make your colleagues feel unwelcome, refrain from being defensive. Remember that if someone calls you out, it likely took a great deal of courage for them to do so. Err on the side of not disputing your colleague. The best way to respect that courage is to acknowledge your mistake, apologize, and move on—with a renewed commitment to do better.
+If you are approached as having (consciously or otherwise) acted in a way that might make your colleagues feel unwelcome, refrain from being defensive. Remember that if someone calls you out, it likely took a great deal of courage for them to do so. Err on the side of not disputing your colleague. The best way to respect that courage is to acknowledge your mistake, apologize, and move on--with a renewed commitment to do better.
 
-That said, repeated or severe violations of this code can become a People Ops matter.
+That said, repeated or severe violations of this code can become a People matter.
 
 ## Contributing
 
