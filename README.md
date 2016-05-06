@@ -22,7 +22,9 @@ We want our team to be fun, productive, and safe for all members. We've adopted 
 
 **"Data is our Diplomat"**  We defer to data-driven design and decision making. We don't always have the luxury of definitive data and often need to make tough decisions in its absence, but where appropriate data exists we let it drive.
 
+<!--alex disable radical-->
 **"Always Honest"**  We crave a work environment conducive to open and honest feedback. We strive for [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) in our communications, where the intersection of caring personally and challenging directly allows us to foster a culture of productive guidance.
+<!--alex enable radical-->
 
 **"Committed To Quality"**  Engineering bears ultimate responsibilty for the quality of our products. For the ultimate success of our group and the entire Social Tables team, we must consistently strive to deliver reliable solutions that delight our customers.
 
@@ -63,7 +65,9 @@ Here are suggestions for how to avoid certain behaviors and language which are s
 
 ## Reporting a problem
 
+<!--alex disable gal-guy-->
 These guidelines are ambitious, and we’re not always going to succeed in meeting them. When something goes wrong, there are a number of things you can do to address the situation with your fellow Engineering team members or with the People team. We know that you’ll do your best work if you’re happy and comfortable in your surroundings, so we take concerns about this stuff seriously.
+<!--alex enable gal-guy-->
 
 Sometimes, you’ll be a witness to something that seems like it isn’t aligned with our values. Err on the side of caring for your colleagues in situations like these. Even if an incident seems minor, reach out to the person impacted by it to check in. In certain situations, it may even be helpful to speak directly to the person who has violated the code of conduct, a manager, or People directly to voice your concerns.
 
