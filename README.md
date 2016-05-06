@@ -22,7 +22,9 @@ We want our team to be fun, productive, and safe for all members. We've adopted 
 
 **"Data is our Diplomat"**  We defer to data-driven design and decision making. We don't always have the luxury of definitive data and often need to make tough decisions in its absence, but where appropriate data exists we let it drive.
 
+<!--alex disable radical-->
 **"Always Honest"**  We crave a work environment conducive to open and honest feedback. We strive for [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) in our communications, where the intersection of caring personally and challenging directly allows us to foster a culture of productive guidance.
+<!--alex enable radical-->
 
 **"Committed To Quality"**  Engineering bears ultimate responsibilty for the quality of our products. For the ultimate success of our group and the entire Social Tables team, we must consistently strive to deliver reliable solutions that delight our customers.
 
@@ -45,8 +47,9 @@ We're creating a lasting team built on teamwork and collaboration. [It takes a v
 **Be humane.** Be polite and friendly in all forms of communication, especially online communication, such as Slack and email, where opportunities for misunderstanding are greater. Use sarcasm carefully. [Tone is hard to decipher online](https://hbr.org/2015/12/a-mental-trick-to-help-with-challenging-conversations); make thoughtful use of emoji to aid in communication. Use video hangouts and IRL meetings when it makes sense; face-to-face discussion benefits from all kinds of social cues that may go missing in other forms of communication.
 
 ## Unacceptable behaviors
-
+<!--alex disable sexual-->
 The Engineering team is committed to providing a welcoming and safe environment for all people -- people of all races, gender identities, gender expressions, sexual orientations, physical abilities, physical appearances, socioeconomic backgrounds, nationalities, ages, religions, and beliefs.
+<!--alex enable sexual-->
 
 We have two-way, transparent, and ethical conversations. [Always honest](https://). Any behavior or language that is unwelcoming is strongly discouraged. Such exclusionary behavior can take many forms, including [microaggressions](http://www.vox.com/2015/2/16/8031073/what-are-microaggressions)--subtle put-downs, whether deliberate or unconscious. Regardless of intent, microaggressions can have a significant negative impact on colleagues and have no place on our team.
 
@@ -62,7 +65,9 @@ Here are suggestions for how to avoid certain behaviors and language which are s
 
 ## Reporting a problem
 
+<!--alex disable gal-guy-->
 These guidelines are ambitious, and we’re not always going to succeed in meeting them. When something goes wrong, there are a number of things you can do to address the situation with your fellow Engineering team members or with the People team. We know that you’ll do your best work if you’re happy and comfortable in your surroundings, so we take concerns about this stuff seriously.
+<!--alex enable gal-guy-->
 
 Sometimes, you’ll be a witness to something that seems like it isn’t aligned with our values. Err on the side of caring for your colleagues in situations like these. Even if an incident seems minor, reach out to the person impacted by it to check in. In certain situations, it may even be helpful to speak directly to the person who has violated the code of conduct, a manager, or People directly to voice your concerns.
 
@@ -99,11 +104,11 @@ Team members are expected to watch this repo and are encouraged to contribute to
 In creating this code of conduct, we were inspired by the [SRCCON code of conduct](http://srccon.org/conduct/), the [Recurse Center User’s Manual](https://www.recurse.com/manual), and guidelines from the [Ada Initiative](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/).
 
 In addition, we consulted many excellent resources, including:
-
+<!--alex disable he-she-->
 - The [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has excellent resources on feminism and its history within the geek community, including this outstanding [guide for allies](http://geekfeminism.wikia.com/wiki/Resources_for_allies).
 - Christina Xu’s essay on [blowhard syndrome](http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome), the evil twin to impostor syndrome. As Xu capably points out, while many of us do suffer from impostor syndrome, the reverse—the pathological belief that you can do anything—is arguably more destructive.
 - Kate Heddleston’s essays on [criticism](https://kateheddleston.com/blog/criticism-and-ineffective-feedback) and [argument culture](https://kateheddleston.com/blog/argument-cultures-and-unregulated-aggression). In the former, Heddleston notes how criticism can be counter-productive and provides positive alternatives for effective feedback. In the latter, she describes argument culture, explains how it creates a toxic atmosphere, and provides constructive ways out—including adopting the “yes, and” improv mantra.
-
+<!--alex enable he-she-->
 
 ## Credit
 
